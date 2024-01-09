@@ -1,0 +1,13 @@
+[share1]
+    path = /path/to/share1
+    valid users = user1
+    read only = no
+    create mask = 0664
+    directory mask = 0775
+
+[share2]
+    path = /path/to/share2
+    valid users = user2
+    read only = no
+    create mask = 0664
+    directory mask = 0775
